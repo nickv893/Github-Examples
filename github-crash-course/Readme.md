@@ -73,3 +73,9 @@ When we want to push a repo to our remote origin
 ```bash
 git push
 ```
+
+### Branches
+
+```bash
+git branch
+```
