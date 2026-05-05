@@ -68,7 +68,6 @@ git commit -m "added another exclamation"
 git log will show recent git commits to git tree
 
 ### Push
-
 When we want to push a repo to our remote origin
 
 ```bash
