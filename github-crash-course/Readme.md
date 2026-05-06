@@ -75,10 +75,17 @@ git push
 ```
 
 ### Branches
-
 Create new brnach and check it out
+
 ```bash
 git branch branch-name
 git checkout branch-name
 git push -u origin branch-name
 ```
+
+### Merging
+```bash
+git checkout branch-name
+git merge main
+```
+
