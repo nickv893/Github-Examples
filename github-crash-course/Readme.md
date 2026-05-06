@@ -76,6 +76,9 @@ git push
 
 ### Branches
 
+Create new brnach and check it out
 ```bash
-git branch
+git branch branch-name
+git checkout branch-name
+git push -u origin branch-name
 ```
