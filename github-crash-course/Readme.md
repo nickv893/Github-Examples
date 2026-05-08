@@ -1,4 +1,4 @@
-## Cloning 
+### Cloning 
 Since we're simulating making a local repo, we need to clone the repo in a folder. There is a hidden folder `.git` which tells you this is a git repo.
 
 ```bash
@@ -19,7 +19,7 @@ git add .
 git commit -m "add new readme file"
 ```
 
-## HTTPS  
+### HTTPS  
 ```bash
 git clone https://github.com/nickv893/Github-Examples.git
 ```
